@@ -1,3 +1,4 @@
 name: Steve Schilhabel, Even Money
 markdown: kramdown
+theme: minima 
 permalink: /blog/:year/:month/:day/:title
